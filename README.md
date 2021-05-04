@@ -1,5 +1,7 @@
 # Mein erstes Git Repo
 
-## Autorin: Sophie Engels
+Hier sind meine Jupyter Notebooks
 
+## Autorin: Sophie Engels
+## Datum: 2021-05-04
 
