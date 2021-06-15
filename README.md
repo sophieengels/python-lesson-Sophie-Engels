@@ -4,6 +4,8 @@ Hier sind meine Jupyter Notebooks zu:
 - Python
 - Pandas
 
-## Autorin: Sophie Engels
-## Datum: 2021-05-04
-
+---
+title: my title  
+author: Sophie Engels   
+date: 15.06.2021  
+---
